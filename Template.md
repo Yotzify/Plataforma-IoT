@@ -8,7 +8,7 @@
 <h2 id="tiempo-estimado">Tiempo estimado:</h2>
 <h2 id="objetivo">Objetivo:</h2>
 <p>Descripción</p>
-<h2 id="materiales-necesarios--requerimientos">Materiales necesarios / Requerimientos</h2>
+<h2 id="requerimientos">Requerimientos</h2>
 <ul>
 <li>Listado de hardware o software.</li>
 </ul>
