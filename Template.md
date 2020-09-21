@@ -4,7 +4,7 @@
 ---
 
 <h1 id="título-de-práctica">Título de Práctica</h1>
-<p><img src="https://travis-ci.org/joemccann/dillinger.svg?branch=master" alt="Dificultad Status"></p>
+<h4 id="dificultad-bajamediaavanzada">Dificultad: Baja/Media/Avanzada</h4>
 <h2 id="tiempo-estimado">Tiempo estimado:</h2>
 <h2 id="objetivo">Objetivo:</h2>
 <p>Descripción</p>
