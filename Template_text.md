@@ -8,7 +8,7 @@
 
 Descripción
 
-## Materiales necesarios / Requerimientos
+## Requerimientos
 
 - Listado de hardware o software.
 
