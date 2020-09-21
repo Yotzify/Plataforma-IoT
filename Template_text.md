@@ -11,6 +11,7 @@ Descripción
 ## Requerimientos
 
 - Listado de hardware o software.
+- 
 
 
 ## Contenido:
