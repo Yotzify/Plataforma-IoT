@@ -2,7 +2,7 @@
 
 #### Dificultad: Baja/Media/Avanzada
 
-## Tiempo estimado:
+## Tiempo estimado: 
 
 ## Objetivo:
 
@@ -10,10 +10,8 @@ Descripción
 
 ## Materiales necesarios / Requerimientos
 
-- Hardware
-- Software
-- Plataformas extras
-- Material de apoyo
+- Listado de hardware o software.
+
 
 ## Contenido:
 
