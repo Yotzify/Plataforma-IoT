@@ -11,6 +11,7 @@
 <h2 id="requerimientos">Requerimientos</h2>
 <ul>
 <li>Listado de hardware o software.</li>
+<li></li>
 </ul>
 <h2 id="contenido">Contenido:</h2>
 <ul>
